@@ -1,3 +1,3 @@
-pip install opencv-python
-pip install ollama
+pip install opencv-python  
+pip install ollama  
 ollama pull gemma3
